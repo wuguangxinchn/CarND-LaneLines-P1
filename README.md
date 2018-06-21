@@ -12,6 +12,6 @@ Major files in this project:
 * writeup.md - A brief write up explaining the solution
 * test_images - Containing images used in the project
 * test_videos - Containing videos used in the project 
-* test_images_output - Output images
-* test_videos_output - Output videos
+* test_images_output - Output images with lane lines detected
+* test_videos_output - Output videos with lane lines detected
 

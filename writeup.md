@@ -26,9 +26,9 @@ Finally, overlay the output and original images.
 
 ### 2. Identify potential shortcomings with your current pipeline
 
-In this project there is still much space to improve, especially the draw_lines() function. Will update later. 
+One shortcoming is that current solution is not working very well for some special case, e.g, big radian, and other obvious lines encountered.
 
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to refine draw_lines() function, and another potential improvement could be to make it more robust, especially there are other obvious lines in the images.  
+A possible improvement could be to make it more robust for the special cases mentioned above.
